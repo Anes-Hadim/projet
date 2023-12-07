@@ -1,0 +1,71 @@
+.main2{
+    background-color:rgb(187, 168, 131);
+    height: 473px;
+}
+.main1{
+    background-color:whitesmoke;
+    height: 473px;
+}
+.firstp1 {
+    margin-top: 0;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.firstp2 {
+    margin-top: 0;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header1{
+    background-color: black;
+    height: 123px;
+}
+.header2{
+    background-color: cornsilk;
+    height: 123px;
+}
+ .a1  {
+    color: white;
+    text-underline-offset: 12px;
+    text-underline-offset: -2px;
+}
+.a2  {
+    color: black;
+    text-underline-offset: 12px;
+    text-underline-offset: -2px;
+}
+.div1{
+    width: 40px;
+    height: 1px;
+    margin-left: 580px;
+    background-color: azure;
+}
+.div2{
+    width: 40px;
+    height: 1px;
+    margin-left: 638px;
+    background-color: azure;
+}
+.div3{
+    width: 40px;
+    height: 1px;
+    margin-left: 580px;
+    background-color: black;
+}
+.div4{
+    width: 40px;
+    height: 1px;
+    margin-left: 638px;
+    background-color: black;
+}
+.light{
+   height: 30px; 
+}
